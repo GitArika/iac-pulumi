@@ -1,5 +1,7 @@
 # Infrastructure as Code with Pulumi
 
+![star](/public/star.gif)
+
 ## Overview
 
 [Get Started](https://www.pulumi.com/docs/iac/get-started/aws/)
