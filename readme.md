@@ -100,3 +100,8 @@ docker rm <container_id>
 ---
 
 🚀 Get started with Pulumi and streamline your infrastructure management!
+
+# Credits
+
+- [Rocketseat](https://rseat.in/PHuNS8XU3)
+- [Ariel Evangelista](https://linkedin.com/in/ariel-evangelista/)
