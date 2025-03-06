@@ -2,7 +2,29 @@
 
 ## Overview
 
+[Get Started](https://www.pulumi.com/docs/iac/get-started/aws/)
+
 This project leverages Pulumi to manage infrastructure as code (IaC) using TypeScript. Pulumi allows you to define, deploy, and manage cloud infrastructure using familiar programming languages and tools.
+
+## Pulumi Usage
+
+Navigate to `infra/`
+
+```sh
+cd infra/
+```
+
+Deploy your stack in a single touch
+
+```sh
+pulumi up
+```
+
+Delete your stack easier then ever
+
+```sh
+pulumi destroy
+```
 
 ### Scripts
 
