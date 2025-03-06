@@ -1,0 +1,10 @@
+name: aws-node-infra
+description: Nodejs IAC with pulumi
+runtime:
+  name: nodejs
+  options:
+    packagemanager: pnpm
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-typescript
